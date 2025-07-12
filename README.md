@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Adrija!
-🎓 Junior at Penn State Univeristy, studying Electrical Engineering
+🎓 Junior at Penn State University, studying Electrical Engineering
 
 💻 Currently a Platform Engineering Co-Op at IBM
 
-🧶 I love to crochet! My most recent project is a blanket made using [willow squares](https://www.youtube.com/watch?v=CgpVRrcbTwA&t=919s&ab_channel=CrochetwithYarnhild) (my most recent obsession). 
+🧶 I love to crochet! My most recent project is a blanket made using [willow squares](https://www.youtube.com/watch?v=CgpVRrcbTwA&t=919s&ab_channel=CrochetwithYarnhild) (my most recent obsession)
 
 I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow](https://www.breakthroughtech.org/)!) Currently, I'm focusing on building machine learning models and diving deeper into data science and cloud networks. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals in either hardware or software.
 
