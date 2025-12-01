@@ -25,38 +25,58 @@ Currently, I'm interested in leveraging and growing my skills in an internship w
 **Debug & Characterization:** Circuit bring-up, signal-quality verification, AC/transient analysis
 
 
-# Projects:
+# Project Highlights:
 A few noteworthy projects I’ve worked on:
 
-1. 🚀 **Autonomous Rover - Lunar Autonomy Challenge (NASA)** 🚀 
+1. 🧠**NLP & Mental Health Crisis Detection: Model Design & Analysis - _Break Through Tech (Cornell)_** 🧠
 
-Virtually explored and mapped the lunar surface using a digital twin of NASA’s ISRU Pilot Excavator (IPEX). Programmed a 4-wheeled robot with differential steering and 8 monochrome cameras to map a 9x9 m area within a total mission time of 1 hour.
-* Tech Stack: Python, Jupyter, CARLA simulator
-* Learnings: Utilizing autonomous agents in partnership with real-time data evaluation
-  
-2. 🧬**Neural Network Implementation using Keras - Break Through Tech (Cornell)** 🧬
+Designed and trained a predictive NLP pipeline to analyze thousands of Reddit posts, integrating data preprocessing, sentiment analysis, and bias detection algorithms to classify depression signals and crisis language while ensuring strict ethical privacy compliance. Evaluated model performance against real-world metrics to detect overlooked emotional distress, identifying and resolving gaps in crisis flagging to facilitate early clinical intervention for at-risk individuals.
+* Tech Stack: Python, Juptyer, Keras, matplotlib, Pandas
+* Learnings: NLP development, BERT, sentiment analysis, project management
 
-Implemented a feedforward neural network model for a binary classification problem using the Keras Python package. Constructed, trained, and evaluated the neural network model's performance. Experimented with different hyperparameter values and neural network settings to retrain and evaluate the model's performance.
-* Tech Stack: Python, Juptyer, Keras
-* Learnings: machine learning, data visualization
-
-3. 🔉 **Analog Audio Signal Chain PCB: System/Board Design & Characterization - Penn State University** 🔉
+2. 🔉 **Analog Audio Signal Chain PCB: System/Board Design & Characterization - _Penn State University_** 🔉
 
 Designed and simulated a five-block analog audio system in NI Multisim—including the mixer, Baxandall tone-control, volume stage, LED-based level display, and output driver—using op-amp configurations to validate gain accuracy, filtering behavior, and power-rail stability across operating conditions. Debugged signal-chain faults after completing the full PCB design using oscilloscopes and frequency-response measurements, identifying issues such as EQ stage loading and summing-amp biasing.
 * Tech Stack:  Oscilloscopes, signal generators, multimeters, DC power supplies
 * Learnings: Breadboard design, PCB design, NI Multisim modeling, attenuation and signaling, audio mixing
 
-4. 🚦**FPGA & Finite State Machine Design Project - Penn State University**🚦
+3. 🚦**FPGA & Finite State Machine Design Project - _Penn State University_** 🚦
 
 Designed and simulated a finite state machine in Multisim, deriving logic equations and validating asynchronous and synchronous state-output behavior. Implemented the FSM using both FPGA-based logic (VHDL/Verilog-style reasoning) and discrete-logic realization on a breadboard with NAND gate ICs, programmable timers, LEDs, and tactile switches. Debugged clock-generation circuitry, asynchronous reset paths, and state-transition timing to ensure reliable and accurate hardware behavior. Utilized LabVIEW to implement a two-level nested switch-statement architecture that mirrored the FSM’s state and transition logic, reinforcing understanding of hardware-software co-design principles.
 * Tech Stack: NI Multisim, LabVIEW, Verilog, MPLAB X
 * Learnings: Breadboard design, Discrete Logic, FPGAs
 
-5. ⚙️**Altium Designer PCB Development: Board Bring-Up, Layout Review & SI/PI Debugging - Penn State University**⚙️
+
+# Other Projects
+1. ⚙️**Altium Designer PCB Development: Board Bring-Up, Layout Review & SI/PI Debugging - _Penn State University_** ⚙️
 
 Executed board bring-up, net-level debugging, and characterization of ADC/DAC interfaces, verifying signal integrity and power-distribution performance. Ran ERC/DRC validation, debugged grounding issues, and evaluated yield-impacting layout constraints such as track impedance and decoupling networks. Generated Gerber files and performed pre-fabrication review focusing on manufacturability and test coverage.
 * Tech Stack: Altium
 * Learnings: PCB design, net-level debugging, Gerber file development and construction
+
+2. 🗄️**Self-Motorized Cabinet Lift: Electromechanical System Design - _Project Lead the Way_** 🗄️
+
+Designed and prototyped an automated cabinet lift system to improve accessibility for users under 5'3", engineering a mechanical drive assembly from recycled components—including bicycle chains and sprockets—and integrating a DC power supply for bidirectional motion and speed regulation. Programmed safety-critical control logic using an Arduino and ultrasonic sensor to detect obstructions within 400 cm, implementing an immediate power-cutoff mechanism that successfully prevents collisions and ensures safe operation in a shared environment.
+* Tech Stack: Ardunio, DC Power Supply, Ultrasonic Sensor
+* Learnings: Project Management, Speech Regulation, Hardware implementation
+  
+3. 🚀 **Autonomous Rover - _Lunar Autonomy Challenge (NASA)_** 🚀 
+
+Developed autonomous navigation algorithms using the CARLA simulator to operate a 4-wheeled robotic system with differential steering and 8 monochrome cameras. Mapped a 9×9 m lunar environment under mission time constraints, integrating perception, localization, and control logic. Conducted sensor fault characterization, signal-quality testing, and power-system validation within a digital twin of NASA’s ISRU Pilot Excavator (IPEX).
+* Tech Stack: Python, Jupyter, CARLA simulator
+* Learnings: Utilizing autonomous agents in partnership with real-time data evaluation
+  
+4. 🧬**Neural Network Implementation using Keras - _Break Through Tech (Cornell)_** 🧬
+
+Implemented a feedforward neural network model for a binary classification problem using the Keras Python package. Constructed, trained, and evaluated the neural network model's performance. Experimented with different hyperparameter values and neural network settings to retrain and evaluate the model's performance.
+* Tech Stack: Python, Juptyer, Keras
+* Learnings: machine learning, data visualization
+
+
+
+
+
+
 
 
 
