@@ -7,7 +7,7 @@
 
 I love tackling real-world problems through data analysis, predictive modeling, and hands-on engineering. I’m passionate about developing technology that advances healthcare (like humanoid robotics or disease prediciton and prevention) and creating renewable energy solutions (like geothermal systems). I’m big on continuous learning and taking initiative (ask me about growing my technical and leadership skills as a [Break Through Tech Fellow](https://www.breakthroughtech.org/)!).
 
-Currently, I'm focusing on building machine learning models and diving deeper into data science and cloud networks. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals in either hardware or software development.
+Currently, I'm interested in leveraging and growing my skills in an internship where I can contribute to exciting projects and learn from industry professionals in either hardware or software development.
 
 
 # ⚙️Tech Stack:
