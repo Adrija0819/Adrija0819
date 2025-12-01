@@ -5,7 +5,7 @@
 
 🧶 I love to crochet! My most recent project is a blanket made using [willow squares](https://www.youtube.com/watch?v=CgpVRrcbTwA&t=919s&ab_channel=CrochetwithYarnhild) (my most recent obsession)
 
-I love tackling real-world problems through data analysis, predictive modeling, and hands-on engineering. I’m passionate about developing technology that advances healthcare (like humanoid robotics or disease prediciton and prevention) and creating renewable energy solutions (like geothermal systems). I’m big on continuous learning and taking initiative (ask me about growing my technical and leadership skills as a [Break Through Tech Fellow](https://www.breakthroughtech.org/)!).
+I love tackling real-world problems through data analysis, predictive modeling, and hands-on engineering. I’m passionate about developing technology that advances healthcare (like brain computer interfaces) and creating renewable energy solutions (like geothermal systems). I’m big on continuous learning and taking initiative (ask me about growing my technical and leadership skills as a [Break Through Tech Fellow](https://www.breakthroughtech.org/)!).
 
 Currently, I'm interested in leveraging and growing my skills in an internship where I can contribute to exciting projects and learn from industry professionals in either hardware or software development.
 
