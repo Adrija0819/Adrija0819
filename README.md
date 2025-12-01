@@ -12,7 +12,9 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 # ⚙️Tech Stack:
 
-**Programming & Modeling:** Python, C/C++, Java, MATLAB, Verilog, Autodesk/Fusion 360, SolidWorks, Git/GitHub, Linux, Jupyter Notebooks, Google Colab, MARS 
+**Programming:** Python, C/C++, Java, MATLAB, Git/GitHub, Linux, Jupyter Notebooks
+
+**Modeling & Low Level:** Autodesk/Fusion 360, SolidWorks, Verilog, MARS, G-Code
 
 **Data Science:** Pandas, NumPy, scikit-learn, matplot
 
