@@ -64,4 +64,4 @@ Executed board bring-up, net-level debugging, and characterization of ADC/DAC in
 # 📫 How to Reach Me:
 **Email:** adrijarambhatla@gmail.com
 
-**LinkedIn:** [adrija rambhatla](https://www.linkedin.com/in/adrija-rambhatla-5b55341b5/)
+**LinkedIn:** [adrija rambhatla](https://www.linkedin.com/in/adrijarambhatla/)
