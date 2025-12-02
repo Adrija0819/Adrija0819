@@ -55,6 +55,7 @@ Executed board bring-up, net-level debugging, and characterization of ADC/DAC in
 * Learnings: PCB design, net-level debugging, Gerber file development and construction
 
 2. 👩‍💻**ZenPod: Noise-Cancelling Airport Work Pod - _Penn State University_** ✈️
+   
 Designed a noise-cancelling airport workspace using CAD-driven enclosure, acoustic, and structural modeling, producing a manufacturable prototype with integrated power, audio, and safety interfaces aligned with PCI system design principles. Implemented key HMI features—tap-to-pay access, ergonomic control layout, integrated timers, and emergency-release mechanisms—ensuring safe, user-focused interaction within a high-traffic public environment. Built and tested a physical prototype using wood framing and acoustic materials, validating noise-reduction performance, safety, manufacturability, and cost–benefit metrics (0.17-year payback, 0.0457 C/B ratio) for airport deployment.
 * Tech Stack: CAD, CBA organization
 * Learnings: Project Management and Deployment, Leadership, PCI system design
