@@ -3,9 +3,7 @@
 
 💻 Currently a Platform Engineering Co-Op at IBM
 
-🧶 I love to crochet! My most recent project is a blanket made using [willow squares](https://www.youtube.com/watch?v=CgpVRrcbTwA&t=919s&ab_channel=CrochetwithYarnhild) (my most recent obsession)
-
-I love tackling real-world problems through data analysis, predictive modeling, and hands-on engineering. I’m passionate about developing technology that advances healthcare (like brain computer interfaces) and creating renewable energy solutions (like geothermal systems). I’m big on continuous learning and taking initiative (ask me about growing my technical and leadership skills as a [Break Through Tech Fellow](https://www.breakthroughtech.org/)!).
+I love tackling complex engineering challenges through hardware design, autonomous systems, and predictive modeling. I’m passionate about leveraging technology for social good, from designing NLP pipelines for mental health crisis detection to developing autonomous navigation for lunar exploration. I’m big on continuous learning and driving community impact—ask me about my experience optimizing AI workflows at IBM or leading initiatives for the Association of Women in Computing!
 
 Currently, I'm interested in leveraging and growing my skills in an internship where I can contribute to exciting projects and learn from industry professionals in either hardware or software development.
 
